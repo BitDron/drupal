@@ -1,1 +1,1 @@
-mkdir -p /var/www/appppp
+RUN mkdir -p /var/www/appppp
